@@ -1,8 +1,8 @@
 #MenuTitle: Duplicate Glyph(s) with Component
 # -*- coding: utf-8 -*-
 __doc__="""
-Duplicates selected glyphs but as components, giving them 001 suffix or above depending on availability.
-Originaly based on Tache's script, but lately completely rewritten.
+Duplicates selected glyphs but as components, giving them 001 suffix or above depending on availability. Component is created for all layers separately.
+Originaly based on Tosche's script (https://github.com/Tosche/Glyphs-Scripts/blob/master/Duplicate%20Glyph%20with%20Component.py), but lately rewritten.
 """
 
 import GlyphsApp
